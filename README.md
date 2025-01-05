@@ -1,5 +1,5 @@
-# DeepLearning Lab with PyTorch🔥
-This repository is my space to experiment with algorithms, models, and various deep learning techniques using PyTorch. From foundational concepts to advanced implementations, it's all about exploring and learning!
+# PyTorch Lab🔥
+This repository is my space to experiment with algorithms, models, and various machine learning / deep learning techniques using PyTorch. From foundational concepts to advanced implementations, it's all about exploring and learning!
 
 ### Installation
 1. Create a Virtual Environment
