@@ -1,5 +1,8 @@
-torch
+torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu118 # windows / linux
 matplotlib
 numpy
 notebook
 ipykernel
+scikit-learn
+pandas
+torchmetrics
