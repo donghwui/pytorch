@@ -6,3 +6,5 @@ ipykernel
 scikit-learn
 pandas
 torchmetrics
+torchvision
+tqdm
